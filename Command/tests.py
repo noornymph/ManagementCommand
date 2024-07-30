@@ -3,7 +3,6 @@
 This module contains the test cases for the 'command' app.
 """
 
-import pytz
 from django.core.management import call_command
 from django.test import TestCase
 
